@@ -1,4 +1,4 @@
-title: David Park
+title: "@dp247"
 email: null
 description: <3 Python
 twitter_username: dp247
@@ -23,7 +23,7 @@ plugins:
 author:
   name: David Park
   avatar: /assets/images/bio-photo.jpg
-  bio: My awesome biography constrained to a sentence or two goes here.
+  bio: "Avid gamer, writer of Python and C#. Works in data."
   links:
     - label: Twitter
       icon: fab fa-fw fa-twitter-square
