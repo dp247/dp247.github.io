@@ -13,8 +13,8 @@ lunr:
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 permalink: '/:categories/:title/'
-paginate: 5
-paginate_path: '/page:num/'
+# paginate: 5
+# paginate_path: '/page:num/'
 timezone: GB
 include:
   - _pages
@@ -72,6 +72,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
 # _portfolio
   - scope:
       path: ""
