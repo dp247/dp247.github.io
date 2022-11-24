@@ -1,10 +1,15 @@
 title: "@dp247"
+title_separator: "|"
 email: null
+url: "https://dp247.github.io"
 description: <3 Python
 twitter_username: dp247
 github_username: dp247
 minimal_mistakes_skin: dark
-search: 'false'
+search: true
+search_provider: lunr
+lunr:
+  search_within_pages: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 permalink: '/:categories/:title/'
@@ -24,6 +29,7 @@ author:
   name: David Park
   avatar: /assets/images/bio-photo.jpg
   bio: "Avid gamer, writer of Python and C#. Works in data."
+  location: "Leeds, UK"
   links:
     - label: Twitter
       icon: fab fa-fw fa-twitter-square
@@ -34,6 +40,10 @@ author:
     - label: Instagram
       icon: fab fa-fw fa-instagram
       url: 'https://instagram.com/dp247'
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 footer:
   links:
     - label: Twitter
@@ -62,6 +72,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+# _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 category_archive:
   type: liquid
   path: /categories/
