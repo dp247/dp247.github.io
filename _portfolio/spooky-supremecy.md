@@ -2,8 +2,8 @@
 title: "Spooky Supremacy"
 excerpt: "A 2v2 FPS LAN game built in Unreal Engine 4"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: assets/images/portfolio/spooky-supremacy/7.png
+  teaser: assets/images/portfolio/spooky-supremacy/7.png
 sidebar:
   - title: "Role"
     text: "Network and gameplay programming"
