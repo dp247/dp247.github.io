@@ -36,4 +36,4 @@ My roles for this project included:
 - Replicating game assets reliably across the network
 - Fixing network and gameplay issues.
 
-{% include figure popup=true image_path="/assets/images/portfolio/spooky-supremacy/7.png" alt="Image of the avatar options screen" caption="This screen appears asking the user to set up their profile if no save data is found" %}
+{% include figure popup=true image_path="/assets/images/portfolio/spooky-supremacy/1.png" alt="Image of the avatar options screen" caption="This screen appears asking the user to set up their profile if no save data is found" %}
