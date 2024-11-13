@@ -7,6 +7,10 @@ header:
 sidebar:
   - title: "Role"
     text: "Network and gameplay programming"
+  - title: "Project type"
+    text: "University"
+  - title: "Status"
+    text: "Completed"
 ---
 
 Spooky Supremacy is a multiplayer game developed as part of a year long module in my final year. The module has programmers and designers form teams and make any game from the concept phase all the way to a playable demo.
