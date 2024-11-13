@@ -2,8 +2,8 @@
 title: "Spooky Supremacy"
 excerpt: "A 2v2 FPS LAN game built in Unreal Engine 4"
 header:
-  image: assets/images/portfolio/spooky-supremacy/7.png
-  teaser: assets/images/portfolio/spooky-supremacy/7.png
+  image: /assets/images/portfolio/spooky-supremacy/7.png
+  teaser: /assets/images/portfolio/spooky-supremacy/7.png
 sidebar:
   - title: "Role"
     text: "Network and gameplay programming"
@@ -35,3 +35,5 @@ My roles for this project included:
 - Error messages for unsuccessful client connections.
 - Replicating game assets reliably across the network
 - Fixing network and gameplay issues.
+
+{% include figure popup=true image_path="/assets/images/portfolio/spooky-supremacy/7.png" alt="Image of the avatar options screen" caption="This screen appears asking the user to set up their profile if no save data is found" %}
