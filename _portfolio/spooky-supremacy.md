@@ -36,4 +36,11 @@ My roles for this project included:
 - Replicating game assets reliably across the network
 - Fixing network and gameplay issues.
 
-{% include figure popup=true image_path="/assets/images/portfolio/spooky-supremacy/1.png" alt="Image of the avatar options screen" caption="This screen appears asking the user to set up their profile if no save data is found" %}
+{% include figure popup=true image_path="/assets/images/portfolio/spooky-supremacy/1.png" alt="Image of the avatar options screen when no user profile is present" caption="This screen appears asking the user to set up their profile if no save data is found" %}
+
+{% include figure popup=true image_path="/assets/images/portfolio/spooky-supremacy/2.png" alt="Image of the avatar options screen with user data present" caption="An example of the profile screen with a player name and avatar image" %}
+
+{% include figure popup=true image_path="/assets/images/portfolio/spooky-supremacy/3.png" alt="Image of the host game screen" caption="The Host menu. Allows the user to set the server's name and number of players (between two and four). 
+
+The connection type is greyed out for the purpose of this build, but could be expanded to include systems such as Steam." %}
+
