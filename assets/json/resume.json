@@ -185,12 +185,7 @@
     {
       "name": "Databases",
       "level": "",
-      "keywords": [
-        "Databricks",
-        "SQL Server",
-        "MySQL",
-        "SQLite"
-      ]
+      "keywords": ["Databricks", "SQL Server", "MySQL", "SQLite"]
     },
     {
       "name": "Software",
@@ -207,12 +202,7 @@
     {
       "name": "Programming languages",
       "level": "",
-      "keywords": [
-        "Python",
-        "Spark SQL/Pyspark",
-        "T-SQL",
-        "C#"
-      ]
+      "keywords": ["Python", "Spark SQL/Pyspark", "T-SQL", "C#"]
     }
   ],
   "languages": [
@@ -229,14 +219,7 @@
       "language": "Japanese"
     }
   ],
-  "interests": [
-    "Japanese language and culture",
-    "video games",
-    "travelling",
-    "food",
-    "automation",
-    "open source software"
-  ],
+  "interests": ["Japanese language and culture", "video games", "travelling", "food", "automation", "open source software"],
   "references": [],
   "projects": [],
   "meta": {
