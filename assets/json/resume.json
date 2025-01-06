@@ -26,7 +26,13 @@
       "position": "Assistant Data Engineer",
       "startDate": "2022-02-28",
       "endDate": "",
-      "highlights": ["Playing an integral role in the daily operations of NHS Digital’s Data Steward Service, by checking and updating datasets for our internal and external stakeholders following written documentation.", "Using Python to automate internal procedures and build new applications that allow the team to work faster and with less room for errors, including Excel spreadsheet validators and automated file checkers.", "Building and maintaining SSIS packages and Python scripts to retrieve and process datasets.", "Making changes to existing data pipelines according to stakeholder and government needs", "Responding to email and IM queries from different stakeholders and customers in the team’s shared inbox."],
+      "highlights": [
+        "Playing an integral role in the daily operations of NHS Digital’s Data Steward Service, by checking and updating datasets for our internal and external stakeholders following written documentation.",
+        "Using Python to automate internal procedures and build new applications that allow the team to work faster and with less room for errors, including Excel spreadsheet validators and automated file checkers.",
+        "Building and maintaining SSIS packages and Python scripts to retrieve and process datasets.",
+        "Making changes to existing data pipelines according to stakeholder and government needs",
+        "Responding to email and IM queries from different stakeholders and customers in the team’s shared inbox."
+      ],
       "url": "https://www.linkedin.com/company/nhs-digital/",
       "location": "Leeds, England, United Kingdom"
     },
@@ -35,7 +41,13 @@
       "position": "Application Support Engineer",
       "startDate": "2021-02-28",
       "endDate": "2022-02-28",
-      "highlights": ["Supporting Leeds City Council’s Business Continuity Team in the day-to-day operations of financial and document storage applications.", "Handling and prioritising work orders and incidents for end-users, liaising with different external support teams as required.", "Creating T-SQL scripts to compare application configurations across different servers.", "Creating command line tools to aid with data transformation between applications and laborious administrative tasks – most recently creating a tool to check lists of users and remove their permissions from applications.", "Organising and leading one-to-ones and twice-yearly appraisals as a line manager."],
+      "highlights": [
+        "Supporting Leeds City Council’s Business Continuity Team in the day-to-day operations of financial and document storage applications.",
+        "Handling and prioritising work orders and incidents for end-users, liaising with different external support teams as required.",
+        "Creating T-SQL scripts to compare application configurations across different servers.",
+        "Creating command line tools to aid with data transformation between applications and laborious administrative tasks – most recently creating a tool to check lists of users and remove their permissions from applications.",
+        "Organising and leading one-to-ones and twice-yearly appraisals as a line manager."
+      ],
       "url": "https://www.linkedin.com/company/leeds-city-council/",
       "location": "United Kingdom"
     },
@@ -44,7 +56,15 @@
       "position": "Application Support Officer",
       "startDate": "2018-05-31",
       "endDate": "2021-02-28",
-      "highlights": ["Managing Leeds City Council's in-house built case management system with responsibilities including application development, database management, and technical support.", "Implemented new database functions to extract data for SSRS reports and built an SSRS report to generate T-SQL statements dynamically, dramatically reducing SSRS report writing times from days to hours.", "Developing T-SQL scripts for administrative functions, such as adding and removing users; data and configuration migration between servers; and data quality checking and cleansing.", "Spearheaded a project with the Information Governance team to set out and implement data retention policies based on service area, council and GDPR requirements.", "Working with potential service areas to gather requirements in regard to understanding the data they wish to collect, then providing help and support on how to store it efficiently within the application, taking into data type and sensitivity, as well as the need for validation.", "Writing technical documentation, such as configuration and report templates and onboarding/support guides for end users.", "Leading meetings, workshops and handling support calls for a range of users with different technical backgrounds, adapting communication to best fit their needs."],
+      "highlights": [
+        "Managing Leeds City Council's in-house built case management system with responsibilities including application development, database management, and technical support.",
+        "Implemented new database functions to extract data for SSRS reports and built an SSRS report to generate T-SQL statements dynamically, dramatically reducing SSRS report writing times from days to hours.",
+        "Developing T-SQL scripts for administrative functions, such as adding and removing users; data and configuration migration between servers; and data quality checking and cleansing.",
+        "Spearheaded a project with the Information Governance team to set out and implement data retention policies based on service area, council and GDPR requirements.",
+        "Working with potential service areas to gather requirements in regard to understanding the data they wish to collect, then providing help and support on how to store it efficiently within the application, taking into data type and sensitivity, as well as the need for validation.",
+        "Writing technical documentation, such as configuration and report templates and onboarding/support guides for end users.",
+        "Leading meetings, workshops and handling support calls for a range of users with different technical backgrounds, adapting communication to best fit their needs."
+      ],
       "url": "https://www.linkedin.com/company/leeds-city-council/",
       "location": "Leeds, West Yorkshire, United Kingdom"
     },
@@ -53,7 +73,7 @@
       "position": "IT Developer Trainee",
       "startDate": "2017-08-31",
       "endDate": "2018-05-31",
-	  "summary": "Working in different teams within the IDS directorate as part of the council's graduate programme",
+      "summary": "Working in different teams within the IDS directorate as part of the council's graduate programme",
       "highlights": [],
       "url": "https://www.linkedin.com/company/leeds-city-council/",
       "location": "Leeds, United Kingdom"
@@ -165,18 +185,35 @@
     {
       "name": "Databases",
       "level": "",
-      "keywords": ["Databricks", "SQL Server", "MySQL", "SQLite"]
+      "keywords": [
+        "Databricks",
+        "SQL Server",
+        "MySQL",
+        "SQLite"
+      ]
     },
-	{
+    {
       "name": "Software",
       "level": "",
-      "keywords": ["SQL Server Management Studio (SSMS)", "SQL Server Reporting Services (SSRS)", "JetBrains PyCharm and Datagrip", "Visual Studio 2022/Code", "Microsoft Office", "Docker"]
+      "keywords": [
+        "SQL Server Management Studio (SSMS)",
+        "SQL Server Reporting Services (SSRS)",
+        "JetBrains PyCharm and Datagrip",
+        "Visual Studio 2022/Code",
+        "Microsoft Office",
+        "Docker"
+      ]
     },
-	{
+    {
       "name": "Programming languages",
       "level": "",
-      "keywords": ["Python", "Spark SQL/Pyspark", "T-SQL", "C#"]
-    },
+      "keywords": [
+        "Python",
+        "Spark SQL/Pyspark",
+        "T-SQL",
+        "C#"
+      ]
+    }
   ],
   "languages": [
     {
@@ -192,7 +229,14 @@
       "language": "Japanese"
     }
   ],
-  "interests": ["Japanese language and culture", "video games", "travelling", "food", "automation", "open source software"],
+  "interests": [
+    "Japanese language and culture",
+    "video games",
+    "travelling",
+    "food",
+    "automation",
+    "open source software"
+  ],
   "references": [],
   "projects": [],
   "meta": {
