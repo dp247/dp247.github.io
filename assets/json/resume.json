@@ -97,7 +97,7 @@
     }
   ],
   "volunteer": [
-	{
+    {
       "organization": "Leeds 2023",
       "position": "Volunteer",
       "startDate": "2023-03-01",
@@ -114,8 +114,8 @@
       "summary": "Volunteering as part of one of many teams to help new first year students (freshers) in the first ten days of their semester. Tasks included moving students into halls, managing and providing support at SU-run events and ensuring that Fresher's Week ran smoothly as well as being friendly faces for the new students to come to with questions.",
       "highlights": [],
       "url": "https://www.linkedin.com/company/2936220"
-    }
-	{
+    },
+    {
       "organization": "Central Yorkshire Scouts",
       "position": "Team Member",
       "startDate": "2010-07-31",
@@ -123,7 +123,7 @@
       "summary": "I helped build and refurbish two schools in rural parts of Kenya such as Rumuruti in Laikipia County. Tasks included painting and decorating rooms, refurbishing furniture, brickwork and roof laying. This was part of a 3 week excursion alongside around 90 other young people from Scouting in Yorkshire.",
       "highlights": [],
       "url": ""
-    },
+    }
   ],
   "education": [
     {
